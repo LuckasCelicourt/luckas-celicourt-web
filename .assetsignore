@@ -1,0 +1,11 @@
+.git/
+.github/
+.gitignore
+.assetsignore
+README.md
+releases/
+*.zip
+*-backup.*
+*-before-*.*
+css/style-v02-backup.css
+js/main-v02-backup.js
